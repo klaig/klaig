@@ -10,7 +10,8 @@ I love the feeling of creating something that works and solves problems, and Iâ€
 
 ### SDA Travel Agency: Full-Stack Application
 - **Front-end Repo**: [SDA Travel agency frontend](https://github.com/klaig/SDATravelAgencyFrontend)
-- **Back-end Repo**: [SDA Travel agency backend](https://github.com/klaig/SDATravelAgencyBackend)  
+- **Back-end Repo**: [SDA Travel agency backend](https://github.com/klaig/SDATravelAgencyBackend)
+  
 The SDA Travel Agency app is a robust, full-stack web application I developed using Java, Spring, Hibernate, and Angular.  
 This platform is designed to provide a seamless and user-friendly experience for travelers looking to browse, filter, and book tours.  
 For admins, it's equipped with a comprehensive set of tools to create, modify, and manage tour offerings easily.
@@ -25,7 +26,9 @@ Every aspect of this project, from the responsive front-end design to the effici
 
 ### Current Work: Money Management Application
 - **Tech Stack**: Java, Spring Security, React.js, Spring Boot, MySQL, Azure, JUnit, Jest, Docker, GitHub Actions, Formik, lodash
-- **Status**: Early stages of development  
+- **Status**: Early stages of development
+- **Repo**: [MoneyMindful](https://github.com/klaig/MoneyMindful)
+  
 I'm currently working on a new project aimed at making managing money simpler and more straightforward.  
 This application is my chance to dive into several technologies that are new to me. I'm really excited about learning as I go, figuring out how to make everything work smoothly together, and tackling the kind of challenges that come with building something useful from scratch.
 
