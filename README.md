@@ -1,7 +1,7 @@
 # Hi there, I'm Kevin Laig 👋
 
 ## About Me
-Hi there! I’m diving into the world of software development and have already gotten my hands dirty with some cool technologies like Java, Spring, Hibernate, and Angular.  
+Hi there! I’m diving into the world of software development and have already gotten my hands dirty with some cool technologies like Java, Spring, Hibernate, React and Angular.  
 I’m super keen on learning and experimenting with both the behind-the-scenes stuff (like how data is managed) and the stuff everyone sees (like web page layouts).  
 I haven't worked in a professional developer role yet, but I’m eager to start applying what I’ve learned in real-world settings.  
 I love the feeling of creating something that works and solves problems, and I’m looking forward to where this tech journey will take me!
